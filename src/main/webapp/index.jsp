@@ -14,10 +14,7 @@
 
 
 	
-       <h1>NETHAJEE REDDY</h1>
-       <p>My first paragraph.</p>
-
-	
+      
 	
 	
 	
